@@ -35,6 +35,12 @@ body{
 	height: 100vh;
 }
 
+#formulario II{
+	overflow: hidden;
+	background: #339966;
+	height: 100vh;
+}
+
 #encabezado #logo{
 	width: 500px;
 	height: auto;
